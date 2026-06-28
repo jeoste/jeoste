@@ -62,7 +62,11 @@
 
 ## Connect
 
-[GitHub](https://github.com/jeoste) · [Website](https://www.jeoste.com/) · [Blog](https://www.jeoste.com/blog) · [Qlik Community](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057) · [X](https://x.com/jeoste_)
+[![jeoste_](https://img.shields.io/badge/-jeoste_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeoste_)
+[![Website](https://img.shields.io/badge/-jeoste.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jeoste.com/)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
+[![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeoste)
 
 ---
 
