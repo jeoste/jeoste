@@ -16,6 +16,7 @@
 ## Start Here
 
 - 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
+- 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
@@ -39,6 +40,8 @@
 
 ### Web & Creative
 
+- 🤖 **NxtHire AI** — Automate resume screening, candidate emails and interview preparation with AI. Next generation of ATS & CRM
+  → [Site](https://www.nexthi.re/)
 - 🌐 **Personal Website** — Portfolio built with shadcn/ui and Next.js  
   → [Site](https://www.jeoste.com/) · [Repo](https://github.com/jeoste/personal-website-shadcn)
 - 📖 **MkDocs Template** — Polished documentation template for consulting deliverables  
@@ -71,6 +74,7 @@
 
 [![jeoste_](https://img.shields.io/badge/-jeoste_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeoste_)
 [![Website](https://img.shields.io/badge/-jeoste.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jeoste.com/)
+[![NxtHire AI](https://img.shields.io/badge/-nexthi.re-6366F1?style=flat-square&logo=openai&logoColor=white)](https://www.nexthi.re/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
 [![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeoste)
