@@ -40,6 +40,10 @@ TypeScript · JavaScript · Python · Java · AWS · Qlik · Talend · MkDocs ·
 - 🔐 **Keepassword** — Lightweight password manager experiment  
   → [Repo](https://github.com/jeoste/keepassword)
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=jeoste&hide_border=true)
+
 ## What I'm Doing
 
 - **Building data products** — Control towers, test data tooling, and domain-driven platforms
