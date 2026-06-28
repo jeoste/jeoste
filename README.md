@@ -1,6 +1,6 @@
 # Hi, I'm Jeoffrey 👋
 
-📍 **France** | 📊 **Data Consultant** | 🚀 **Entrepreneur & Indie Hacker** | 📈 **Trader**
+📍 **France** & **South Korea** | 📊 **Data Consultant** | 🚀 **Entrepreneur & Indie Hacker** | 📈 **Trader**
 
 TypeScript · JavaScript · Python · Java · AWS · Qlik · Talend · MkDocs · Next.js · Vercel
 
