@@ -62,7 +62,7 @@
 
 ## Connect
 
-[GitHub](https://github.com/jeoste) · [Website](https://www.jeoste.com/) · [Blog](https://www.jeoste.com/blog) · [X](https://x.com/jeoste_)
+[GitHub](https://github.com/jeoste) · [Website](https://www.jeoste.com/) · [Blog](https://www.jeoste.com/blog) · [Qlik Community](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057) · [X](https://x.com/jeoste_)
 
 ---
 
