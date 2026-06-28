@@ -7,10 +7,9 @@ TypeScript JavaScript Python Java AWS Qlik Talend MkDocs Next.js Vercel
 ## Start Here
 
 * 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
-* 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(coming soon)*
-* 🧮 **[Abacus](https://github.com/jeoste/abacus)** — Data tooling & analytics workspace
-* 🧰 **[My Data Toolbox](https://github.com/jeoste/my-data-toolbox)** — Generate test data from OpenAPI specs
-* 📖 **[MkDocs Template](https://github.com/jeoste/mkdocs-template)** — Documentation starter for client projects
+* 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *landing page*
+* 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
+* 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
 
 ## Current Projects
 
@@ -21,11 +20,7 @@ TypeScript JavaScript Python Java AWS Qlik Talend MkDocs Next.js Vercel
 * 🎯 **FOCUS** — Modern data domain modeling and governance  
   → [Repo](https://github.com/jeoste/focusdata-domain)
 * 🧰 **My Data Toolbox** — Create realistic test datasets straight from your OAS definitions  
-  → [Repo](https://github.com/jeoste/my-data-toolbox)
-* 🧮 **Abacus** — Internal data utilities and experimentation sandbox  
-  → [Repo](https://github.com/jeoste/abacus)
-* 📚 **Talend Git Training** — Hands-on Git workflows for Talend Academy  
-  → [Repo](https://github.com/jeoste/talend-git-training)
+  → [Repo](https://my-data-toolbox.vercel.app/)
 
 ### Cloud & DevOps
 
