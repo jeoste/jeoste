@@ -2,7 +2,16 @@
 
 📍 **France** & **South Korea** | 📊 **Data Consultant** | 🚀 **Entrepreneur & Indie Hacker** | 📈 **Trader**
 
-TypeScript · JavaScript · Python · Java · AWS · Qlik · Talend · MkDocs · Next.js · Vercel
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Qlik](https://img.shields.io/badge/-Qlik-009845?style=flat-square&logoColor=white)
+![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logoColor=white)
+![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat-square&logo=markdown&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Start Here
 
@@ -57,4 +66,4 @@ TypeScript · JavaScript · Python · Java · AWS · Qlik · Talend · MkDocs ·
 
 ---
 
-> *"Ship beats perfect"* — I build tools to solve real data problems, then share what works.
+> *"Ship beats perfect"* | I build tools to solve real world problems, then share what works.
