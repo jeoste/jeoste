@@ -1,6 +1,6 @@
 # Hi, I'm Jeoffrey 👋
 
-📍 **France** & **South Korea** | 📊 **Data Consultant** | 🚀 **Entrepreneur & Indie Hacker** | 📈 **Trader**
+📍 **France** & **South Korea** | 📊 **Data Consultant** | 🚀 **Entrepreneur & Data Product Builder** | 📈 **Trader**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
