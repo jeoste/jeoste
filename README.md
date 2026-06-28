@@ -66,4 +66,4 @@
 
 ---
 
-> *"Ship beats perfect"* | I build tools to solve real world problems, then share what works.
+> I build tools to solve real world problems
