@@ -49,7 +49,7 @@ TypeScript · JavaScript · Python · Java · AWS · Qlik · Talend · MkDocs ·
 
 ## Connect
 
-[GitHub](https://github.com/jeoste_) · [Website](https://www.jeoste.com/) · [Blog](https://www.jeoste.com/blog) · [X](https://x.com/jeoste)
+[GitHub](https://github.com/jeoste) · [Website](https://www.jeoste.com/) · [Blog](https://www.jeoste.com/blog) · [X](https://x.com/jeoste_)
 
 ---
 
