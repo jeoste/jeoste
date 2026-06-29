@@ -17,7 +17,7 @@
 
 - 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
-- 📈 **[Xpand](https://xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
+- 📈 **[Xpand](http://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
