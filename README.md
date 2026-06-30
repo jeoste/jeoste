@@ -11,6 +11,7 @@
 ![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat-square&logo=markdown&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Start Here
@@ -19,6 +20,7 @@
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
 - 📈 **[Xpand](http://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
+- 🖐️ **[Handometer](https://github.com/jeoste/handometer/releases)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
@@ -53,6 +55,8 @@
   → [Site](https://xpand.to/)
 - 🐾 **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
   → [Site](https://heybuddy.space/)
+- 🖐️ **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
+  → [Download](https://github.com/jeoste/handometer/releases) · [Repo](https://github.com/jeoste/handometer)
 - 🌐 **Personal Website** — Portfolio built with shadcn/ui and Next.js  
   → [Site](https://www.jeoste.com/) · [Repo](https://github.com/jeoste/personal-website-shadcn)
 - 📖 **MkDocs Template** — Polished documentation template for consulting deliverables  
