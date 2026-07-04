@@ -71,11 +71,11 @@
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=jeoste&hide_border=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jeoste&show_icons=true&theme=transparent" alt="Jeoffrey's GitHub stats" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=jeoste&show_icons=true&theme=transparent" alt="Jeoffrey's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeoste&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Languages" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeoste&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Languages" />
 </a>
 
 ## What I'm Doing
