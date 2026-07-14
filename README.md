@@ -41,6 +41,8 @@
 - 🩹 **Talend Patch Generator** — Next.js wizard (13 steps) to build production-ready Qlik Talend ESB Runtime patch packages for Linux  
   Guided setup for installer path, patch ZIP, Karaf credentials (`tadmin` / `tesb` / `karaf`) and systemd service — generates a fused shell script (password rotation → patch apply → PID fix) with live preview and EN/FR UI, exported as `talend-patch-package.zip`  
   → [Repo](https://github.com/jeoste/talend-scripts)
+- 🔒 **Talend SSL Scripts** — Bash automation for renewing SSL/HTTPS certificates on the Talend Apache Karaf runtime  
+  → [Repo](https://github.com/jeoste/scripts-talend-ssl) *(private)*
 
 ### Cloud & DevOps
 
