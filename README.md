@@ -18,7 +18,7 @@
 
 - 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
-- 📈 **[Xpand](http://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
+- 📈 **[Xpand](https://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
 - 🖐️ **[Handometer](https://github.com/jeoste/handometer/releases)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
@@ -52,7 +52,7 @@
 - 🤖 **NxtHire AI** — Automate resume screening, candidate emails and interview preparation with AI. Next generation of ATS & CRM  
   → [Site](https://www.nexthi.re/)
 - 📈 **Xpand** — Audience growth platform for X: track followers, schedule posts and measure engagement  
-  → [Site](https://xpand.to/)
+  → [Site](https://dev.xpand.to/)
 - 🐾 **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
   → [Site](https://heybuddy.space/)
 - 🖐️ **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
@@ -90,7 +90,7 @@
 [![jeoste_](https://img.shields.io/badge/-jeoste_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeoste_)
 [![Website](https://img.shields.io/badge/-jeoste.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jeoste.com/)
 [![NxtHire AI](https://img.shields.io/badge/-nexthi.re-6366F1?style=flat-square&logo=openai&logoColor=white)](https://www.nexthi.re/)
-[![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://xpand.to/)
+[![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://dev.xpand.to/)
 [![HeyBuddy](https://img.shields.io/badge/-heybuddy.space-34D399?style=flat-square&logo=apple&logoColor=white)](https://heybuddy.space/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
 [![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
@@ -100,4 +100,4 @@
 
 ### Philosophy
 
-> *"Building what lasts"* — I build tools to solve real-world business problems.
+> *"Building what lasts, and what's useful"* | I build tools to solve real-world business problems.
