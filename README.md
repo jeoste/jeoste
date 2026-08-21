@@ -20,6 +20,7 @@
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
 - 📈 **[Xpand](https://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
+- ⚓️ **[DevDocklane](https://github.com/jeoste/devdocklane/releases)** — Mac menu bar app: see localhost ports and launch your dev servers
 - 🖐️ **[Handometer](https://github.com/jeoste/handometer/releases)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
@@ -57,6 +58,8 @@
   → [Site](https://dev.xpand.to/)
 - 🐾 **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
   → [Site](https://heybuddy.space/)
+- ⚓️ **DevDocklane** — See every localhost port from the menu bar, and launch your own `pnpm`/`npm` servers in one click — 100% local  
+  → [Download](https://github.com/jeoste/devdocklane/releases) · [Repo](https://github.com/jeoste/devdocklane)
 - 🖐️ **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
   → [Download](https://github.com/jeoste/handometer/releases) · [Repo](https://github.com/jeoste/handometer)
 - 🌐 **Personal Website** — Portfolio built with shadcn/ui and Next.js  
@@ -84,7 +87,7 @@
 
 - **Building data products** — Control towers, test data tooling, and domain-driven platforms
 - **Consulting on Qlik & Talend** — Pipelines, governance, and modern data stacks
-- **Shipping indie projects** — Small tools, fast iterations, real users
+- **Shipping indie projects** — Mac menu bar apps, small tools, fast iterations, real users
 - **Trading & learning** — Markets, risk, and systematic thinking
 
 ## Connect
@@ -94,6 +97,7 @@
 [![NxtHire AI](https://img.shields.io/badge/-nexthi.re-6366F1?style=flat-square&logo=openai&logoColor=white)](https://www.nexthi.re/)
 [![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://dev.xpand.to/)
 [![HeyBuddy](https://img.shields.io/badge/-heybuddy.space-34D399?style=flat-square&logo=apple&logoColor=white)](https://heybuddy.space/)
+[![DevDocklane](https://img.shields.io/badge/-DevDocklane-0EA5E9?style=flat-square&logo=apple&logoColor=white)](https://github.com/jeoste/devdocklane/releases)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
 [![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeoste)
