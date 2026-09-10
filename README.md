@@ -22,7 +22,7 @@
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
 - ⚓️ **[DevDocklane](https://github.com/jeoste/devdocklane/releases)** — Mac menu bar app: see localhost ports and launch your dev servers
 - 🖐️ **[Handometer](https://github.com/jeoste/handometer/releases)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
-- 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform *(landing page)*
+- 🎯 **[FOCUS](https://focusdata-domain-focus-data-platform.vercel.app/)** — Domain-driven data platform
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
 - 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
@@ -34,7 +34,7 @@
 - 🌌 **Nebula** — Monitor, orchestrate and govern Qlik Talend pipelines from a single control tower  
   → [Demo](https://nebula-eight-omega.vercel.app/) · [Repo](https://github.com/jeoste/nebula)
 - 🎯 **FOCUS** — Modern data domain modeling and governance  
-  → [Repo](https://github.com/jeoste/focusdata-domain)
+  → [Demo](https://focusdata-domain-focus-data-platform.vercel.app/) · [Repo](https://github.com/jeoste/focusdata-domain)
 - 🧰 **My Data Toolbox** — Create realistic test datasets straight from your OAS definitions  
   → [Demo](https://my-data-toolbox.vercel.app/) · [Repo](https://github.com/jeoste/my-data-toolbox)
 - 📋 **Article Repository** — Custom web & desktop app to replace Excel for client article management, with Talend-ready export  
