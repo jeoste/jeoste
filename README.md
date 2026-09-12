@@ -16,8 +16,6 @@
 
 ## Start Here
 
-- 🛳️ **[Portlane](https://www.portlane.io/)** — Self-hosted integration runtime, lifetime license
-- 🏛️ **[BastionLab](https://www.bastionlab.tech/)** — Digital engineering studio: custom software, data & IA
 - 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
 - 📈 **[Xpand](https://www.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
@@ -28,15 +26,9 @@
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.jeoste.com/)** — Generate test data from OpenAPI specs
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
 - 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
+- ✅ **[CocheCoche](https://cochecoche.jeoste.com/)** — Open-source task desk for dates, projects and agents
 
 ## Current Projects
-
-### Studio & Products
-
-- 🏛️ **BastionLab** — Digital engineering studio and software publisher: custom software, data platforms, and AI for mid-market companies  
-  → [Site](https://www.bastionlab.tech/)
-- 🛳️ **Portlane** — Self-hosted data integration runtime: lifetime license, versioned Python flows, Docker engines on your own servers — no subscription, no usage billing  
-  → [Site](https://www.portlane.io/) · [Docs](https://docs.portlane.io/docs) · [Portal](https://app.portlane.io/)
 
 ### Data & Integration
 
@@ -96,8 +88,7 @@
 
 ## What I'm Doing
 
-- **Building Portlane** — Self-hosted integration runtime, lifetime license, on-prem data plane
-- **Running BastionLab** — Custom software, data & IA for PME / ETI
+- **Building data products** — Control towers, test data tooling, and domain-driven platforms
 - **Consulting on Qlik & Talend** — Pipelines, governance, and modern data stacks
 - **Shipping indie projects** — Mac menu bar apps, small tools, fast iterations, real users
 - **Trading & learning** — Markets, risk, and systematic thinking
@@ -106,11 +97,10 @@
 
 [![jeoste_](https://img.shields.io/badge/-jeoste_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeoste_)
 [![Website](https://img.shields.io/badge/-jeoste.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jeoste.com/)
-[![BastionLab](https://img.shields.io/badge/-bastionlab.tech-0F172A?style=flat-square)](https://www.bastionlab.tech/)
-[![Portlane](https://img.shields.io/badge/-portlane.io-1E3A5F?style=flat-square&logoColor=white)](https://www.portlane.io/)
 [![NxtHire AI](https://img.shields.io/badge/-nexthi.re-6366F1?style=flat-square&logo=openai&logoColor=white)](https://www.nexthi.re/)
 [![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://www.xpand.to/)
 [![HeyBuddy](https://img.shields.io/badge/-heybuddy.space-34D399?style=flat-square&logo=apple&logoColor=white)](https://heybuddy.space/)
+[![CocheCoche](https://img.shields.io/badge/-cochecoche-22C55E?style=flat-square)](https://cochecoche.jeoste.com/)
 [![DevDocklane](https://img.shields.io/badge/-DevDocklane-0EA5E9?style=flat-square&logo=apple&logoColor=white)](https://github.com/jeoste/devdocklane/releases)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
 [![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
