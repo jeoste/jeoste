@@ -16,32 +16,41 @@
 
 ## Start Here
 
+- 🛳️ **[Portlane](https://www.portlane.io/)** — Self-hosted integration runtime, lifetime license
+- 🏛️ **[BastionLab](https://www.bastionlab.tech/)** — Digital engineering studio: custom software, data & IA
 - 🌌 **[Nebula](https://nebula-eight-omega.vercel.app/)** — Data Control Tower for Qlik Talend jobs
 - 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
-- 📈 **[Xpand](https://dev.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
+- 📈 **[Xpand](https://www.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
 - 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
 - ⚓️ **[DevDocklane](https://github.com/jeoste/devdocklane/releases)** — Mac menu bar app: see localhost ports and launch your dev servers
-- 🖐️ **[Handometer](https://github.com/jeoste/handometer/releases)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
-- 🎯 **[FOCUS](https://focusdata-domain-focus-data-platform.vercel.app/)** — Domain-driven data platform
-- 🧰 **[My Data Toolbox](https://my-data-toolbox.vercel.app/)** — Generate test data from OpenAPI specs
+- 🖐️ **[Handometer](https://handometer.vercel.app/)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
+- 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform
+- 🧰 **[My Data Toolbox](https://my-data-toolbox.jeoste.com/)** — Generate test data from OpenAPI specs
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
 - 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
 
 ## Current Projects
+
+### Studio & Products
+
+- 🏛️ **BastionLab** — Digital engineering studio and software publisher: custom software, data platforms, and AI for mid-market companies  
+  → [Site](https://www.bastionlab.tech/)
+- 🛳️ **Portlane** — Self-hosted data integration runtime: lifetime license, versioned Python flows, Docker engines on your own servers — no subscription, no usage billing  
+  → [Site](https://www.portlane.io/) · [Docs](https://docs.portlane.io/docs) · [Portal](https://app.portlane.io/)
 
 ### Data & Integration
 
 - 🌌 **Nebula** — Monitor, orchestrate and govern Qlik Talend pipelines from a single control tower  
   → [Demo](https://nebula-eight-omega.vercel.app/) · [Repo](https://github.com/jeoste/nebula)
 - 🎯 **FOCUS** — Modern data domain modeling and governance  
-  → [Demo](https://focusdata-domain-focus-data-platform.vercel.app/) · [Repo](https://github.com/jeoste/focusdata-domain)
+  → [Repo](https://github.com/jeoste/focusdata-domain)
 - 🧰 **My Data Toolbox** — Create realistic test datasets straight from your OAS definitions  
-  → [Demo](https://my-data-toolbox.vercel.app/) · [Repo](https://github.com/jeoste/my-data-toolbox)
+  → [Demo](https://my-data-toolbox.jeoste.com/) · [Repo](https://github.com/jeoste/my-data-toolbox)
 - 📋 **Article Repository** — Custom web & desktop app to replace Excel for client article management, with Talend-ready export  
   → [Repo](https://github.com/jeoste/referentiel-articles)
 - 🩹 **Talend Patch Generator** — Next.js wizard (13 steps) to build production-ready Qlik Talend ESB Runtime patch packages for Linux  
   Guided setup for installer path, patch ZIP, Karaf credentials (`tadmin` / `tesb` / `karaf`) and systemd service — generates a fused shell script (password rotation → patch apply → PID fix) with live preview and EN/FR UI, exported as `talend-patch-package.zip`  
-  → [Repo](https://github.com/jeoste/talend-scripts)
+  → [App](https://esb-patch.jeoste.com/) · [Repo](https://github.com/jeoste/talend-scripts)
 - 🔒 **Talend SSL Scripts** — Bash automation for renewing SSL/HTTPS certificates on the Talend Apache Karaf runtime  
   → [Repo](https://github.com/jeoste/scripts-talend-ssl) *(private)*
 
@@ -55,20 +64,22 @@
 - 🤖 **NxtHire AI** — Automate resume screening, candidate emails and interview preparation with AI. Next generation of ATS & CRM  
   → [Site](https://www.nexthi.re/)
 - 📈 **Xpand** — Audience growth platform for X: track followers, schedule posts and measure engagement  
-  → [Site](https://dev.xpand.to/)
+  → [Site](https://www.xpand.to/)
 - 🐾 **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
   → [Site](https://heybuddy.space/)
 - ⚓️ **DevDocklane** — See every localhost port from the menu bar, and launch your own `pnpm`/`npm` servers in one click — 100% local  
   → [Download](https://github.com/jeoste/devdocklane/releases) · [Repo](https://github.com/jeoste/devdocklane)
 - 🖐️ **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
-  → [Download](https://github.com/jeoste/handometer/releases) · [Repo](https://github.com/jeoste/handometer)
-- 🌐 **Personal Website** — Portfolio built with shadcn/ui and Next.js  
-  → [Site](https://www.jeoste.com/) · [Repo](https://github.com/jeoste/personal-website-shadcn)
+  → [Site](https://handometer.vercel.app/) · [Download](https://github.com/jeoste/handometer/releases) · [Repo](https://github.com/jeoste/handometer)
+- 🌐 **Personal Website** — Portfolio, blog and consulting  
+  → [Site](https://www.jeoste.com/)
 - 📖 **MkDocs Template** — Polished documentation template for consulting deliverables  
   → [Demo](https://mkdocs-template-khaki.vercel.app/) · [Repo](https://github.com/jeoste/mkdocs-template)
 
 ### Tools & Side Projects
 
+- ✅ **CocheCoche** — Open-source task desk (dates, projects, agent ingest API) — each account has its own space  
+  → [Site](https://cochecoche.jeoste.com/) · [Repo](https://github.com/jeoste/cochecoche)
 - 🔐 **Keepassword** — Lightweight password manager experiment  
   → [Repo](https://github.com/jeoste/keepassword)
 
@@ -85,7 +96,8 @@
 
 ## What I'm Doing
 
-- **Building data products** — Control towers, test data tooling, and domain-driven platforms
+- **Building Portlane** — Self-hosted integration runtime, lifetime license, on-prem data plane
+- **Running BastionLab** — Custom software, data & IA for PME / ETI
 - **Consulting on Qlik & Talend** — Pipelines, governance, and modern data stacks
 - **Shipping indie projects** — Mac menu bar apps, small tools, fast iterations, real users
 - **Trading & learning** — Markets, risk, and systematic thinking
@@ -94,8 +106,10 @@
 
 [![jeoste_](https://img.shields.io/badge/-jeoste_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jeoste_)
 [![Website](https://img.shields.io/badge/-jeoste.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jeoste.com/)
+[![BastionLab](https://img.shields.io/badge/-bastionlab.tech-0F172A?style=flat-square)](https://www.bastionlab.tech/)
+[![Portlane](https://img.shields.io/badge/-portlane.io-1E3A5F?style=flat-square&logoColor=white)](https://www.portlane.io/)
 [![NxtHire AI](https://img.shields.io/badge/-nexthi.re-6366F1?style=flat-square&logo=openai&logoColor=white)](https://www.nexthi.re/)
-[![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://dev.xpand.to/)
+[![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://www.xpand.to/)
 [![HeyBuddy](https://img.shields.io/badge/-heybuddy.space-34D399?style=flat-square&logo=apple&logoColor=white)](https://heybuddy.space/)
 [![DevDocklane](https://img.shields.io/badge/-DevDocklane-0EA5E9?style=flat-square&logo=apple&logoColor=white)](https://github.com/jeoste/devdocklane/releases)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
