@@ -27,8 +27,8 @@
 - ☁️ **[AWS Management](https://aws-management.vercel.app/)** — Unified control plane for SQS queues and SNS topics
 - 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
 - ✅ **[CocheCoche](https://cochecoche.jeoste.com/)** — Open-source task desk for dates, projects and agents
-- 🏹 **[Caza](https://caza-two.vercel.app/)** — Prospecting CRM: companies to hunt and contact
-- 🧱 **[Cantera](https://cantera-iberica.vercel.app/)** — Candidate pipeline for Data-Major Ibérica
+- <img src="assets/caza.png" width="16" height="16" alt="Caza" /> **[Caza](https://caza-two.vercel.app/)** — Prospecting CRM: companies to hunt and contact
+- <img src="assets/cantera.png" width="16" height="16" alt="Cantera" /> **[Cantera](https://cantera-iberica.vercel.app/)** — Candidate pipeline for Data-Major Ibérica
 
 ## Current Projects
 
@@ -74,9 +74,9 @@
 
 - ✅ **CocheCoche** — Open-source task desk (dates, projects, agent ingest API) — each account has its own space  
   → [Site](https://cochecoche.jeoste.com/) · [Repo](https://github.com/jeoste/cochecoche)
-- 🏹 **Caza** — Prospecting CRM for Data-Major: companies to hunt, then contact — kanban, notes, agent ingest  
+- <img src="assets/caza.png" width="16" height="16" alt="Caza" /> **Caza** — Prospecting CRM for Data-Major: companies to hunt, then contact — kanban, notes, agent ingest  
   → [Site](https://caza-two.vercel.app/) · [Repo](https://github.com/jeoste/caza)
-- 🧱 **Cantera** — Candidate pipeline for Data-Major Ibérica (Málaga / French / data)  
+- <img src="assets/cantera.png" width="16" height="16" alt="Cantera" /> **Cantera** — Candidate pipeline for Data-Major Ibérica (Málaga / French / data)  
   → [Site](https://cantera-iberica.vercel.app/) · [Repo](https://github.com/jeoste/cantera)
 - 🔐 **Keepassword** — Lightweight password manager experiment  
   → [Repo](https://github.com/jeoste/keepassword)
@@ -107,8 +107,8 @@
 [![Xpand](https://img.shields.io/badge/-xpand.to-000000?style=flat-square&logo=x&logoColor=white)](https://www.xpand.to/)
 [![HeyBuddy](https://img.shields.io/badge/-heybuddy.space-34D399?style=flat-square&logo=apple&logoColor=white)](https://heybuddy.space/)
 [![CocheCoche](https://img.shields.io/badge/-cochecoche-22C55E?style=flat-square)](https://cochecoche.jeoste.com/)
-[![Caza](https://img.shields.io/badge/-caza-2C5470?style=flat-square)](https://caza-two.vercel.app/)
-[![Cantera](https://img.shields.io/badge/-cantera-00605F?style=flat-square)](https://cantera-iberica.vercel.app/)
+<a href="https://caza-two.vercel.app/"><img src="assets/caza.png" height="20" alt="Caza" /></a>
+<a href="https://cantera-iberica.vercel.app/"><img src="assets/cantera.png" height="20" alt="Cantera" /></a>
 [![DevDocklane](https://img.shields.io/badge/-DevDocklane-0EA5E9?style=flat-square&logo=apple&logoColor=white)](https://github.com/jeoste/devdocklane/releases)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=rss&logoColor=white)](https://www.jeoste.com/blog)
 [![Qlik Community](https://img.shields.io/badge/-Qlik_Community-009845?style=flat-square&logoColor=white)](https://community.qlik.com/t5/user/viewprofilepage/user-id/281057)
