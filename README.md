@@ -26,7 +26,7 @@
 - 🧰 **[My Data Toolbox](https://my-data-toolbox.jeoste.com/)** — Generate test data from OpenAPI specs
 - 🧮 **[Abacus](https://abacus.jeoste.com/)** — Workload estimation for Talend & Blueway data flows
 - ☁️ **[AWS Management](https://aws-management.jeoste.com/)** — Unified control plane for SQS queues and SNS topics
-- 📖 **[MkDocs Template](https://mkdocs-template-khaki.vercel.app/)** — Documentation starter for client projects
+- 📖 **[MkDocs Template](https://github.com/jeoste/mkdocs-template)** — Documentation starter for client projects
 - ✅ **[CocheCoche](https://cochecoche.jeoste.com/)** — Open-source task desk for dates, projects and agents
 - <img src="assets/caza.png" width="16" height="16" alt="Caza" /> **[Caza](https://caza-two.vercel.app/)** — Prospecting CRM: companies to hunt and contact
 - <img src="assets/cantera.png" width="16" height="16" alt="Cantera" /> **[Cantera](https://cantera-iberica.vercel.app/)** — Candidate pipeline for Data-Major Ibérica
@@ -71,7 +71,7 @@
 - 🌐 **Personal Website** — Portfolio, blog and consulting  
   → [Site](https://www.jeoste.com/)
 - 📖 **MkDocs Template** — Polished documentation template for consulting deliverables  
-  → [Demo](https://mkdocs-template-khaki.vercel.app/) · [Repo](https://github.com/jeoste/mkdocs-template)
+  → [Repo](https://github.com/jeoste/mkdocs-template)
 
 ### Tools & Side Projects
 
