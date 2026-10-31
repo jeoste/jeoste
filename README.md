@@ -16,18 +16,18 @@
 
 ## Start Here
 
-- 🌌 **[Nebula](https://nebula.jeoste.com/)** — Data Control Tower for Qlik Talend jobs
-- 🤖 **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
-- 📈 **[Xpand](https://www.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
-- 🐾 **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
-- ⚓️ **[DevDocklane](https://github.com/jeoste/devdocklane/releases)** — Mac menu bar app: see localhost ports and launch your dev servers
-- 🖐️ **[Handometer](https://handometer.jeoste.com/)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
+- <img src="assets/nebula.png" width="16" height="16" alt="Nebula" /> **[Nebula](https://nebula.jeoste.com/)** — Data Control Tower for Qlik Talend jobs
+- <img src="assets/nexthire.png" width="16" height="16" alt="NxtHire AI" /> **[NxtHire AI](https://www.nexthi.re/)** — AI-powered recruiting: resume sorting, personalized emails & interview prep
+- <img src="assets/xpand.png" width="16" height="16" alt="Xpand" /> **[Xpand](https://www.xpand.to/)** — Grow your X audience: analytics, post scheduling & engagement tracking
+- <img src="assets/heybuddy.png" width="16" height="16" alt="HeyBuddy" /> **[HeyBuddy](https://heybuddy.space/)** — Living desktop companion for Mac: hydration, stretch breaks & wellness nudges
+- <img src="assets/devdocklane.png" width="16" height="16" alt="DevDocklane" /> **[DevDocklane](https://github.com/jeoste/devdocklane/releases)** — Mac menu bar app: see localhost ports and launch your dev servers
+- <img src="assets/handometer.png" width="16" height="16" alt="Handometer" /> **[Handometer](https://handometer.jeoste.com/)** — Mac menu bar app: daily cursor distance, mouse speed, clicks & key frequency
 - 🎯 **[FOCUS](https://github.com/jeoste/focusdata-domain)** — Domain-driven data platform
-- 🧰 **[My Data Toolbox](https://my-data-toolbox.jeoste.com/)** — Generate test data from OpenAPI specs
+- <img src="assets/mydatatoolbox.png" width="16" height="16" alt="My Data Toolbox" /> **[My Data Toolbox](https://my-data-toolbox.jeoste.com/)** — Generate test data from OpenAPI specs
 - 🧮 **[Abacus](https://abacus.jeoste.com/)** — Workload estimation for Talend & Blueway data flows
-- ☁️ **[AWS Management](https://aws-management.jeoste.com/)** — Unified control plane for SQS queues and SNS topics
+- <img src="assets/aws-management.png" width="16" height="16" alt="AWS Management" /> **[AWS Management](https://aws-management.jeoste.com/)** — Unified control plane for SQS queues and SNS topics
 - 📖 **[MkDocs Template](https://github.com/jeoste/mkdocs-template)** — Documentation starter for client projects
-- ✅ **[CocheCoche](https://cochecoche.jeoste.com/)** — Open-source task desk for dates, projects and agents
+- <img src="assets/cochecoche.png" width="16" height="16" alt="CocheCoche" /> **[CocheCoche](https://cochecoche.jeoste.com/)** — Open-source task desk for dates, projects and agents
 - <img src="assets/caza.png" width="16" height="16" alt="Caza" /> **[Caza](https://caza-two.vercel.app/)** — Prospecting CRM: companies to hunt and contact
 - <img src="assets/cantera.png" width="16" height="16" alt="Cantera" /> **[Cantera](https://cantera-iberica.vercel.app/)** — Candidate pipeline for Data-Major Ibérica
 
@@ -35,17 +35,17 @@
 
 ### Data & Integration
 
-- 🌌 **Nebula** — Monitor, orchestrate and govern Qlik Talend pipelines from a single control tower  
+- <img src="assets/nebula.png" width="16" height="16" alt="Nebula" /> **Nebula** — Monitor, orchestrate and govern Qlik Talend pipelines from a single control tower  
   → [Demo](https://nebula.jeoste.com/) · [Repo](https://github.com/jeoste/nebula)
 - 🎯 **FOCUS** — Modern data domain modeling and governance  
   → [Repo](https://github.com/jeoste/focusdata-domain)
-- 🧰 **My Data Toolbox** — Create realistic test datasets straight from your OAS definitions  
+- <img src="assets/mydatatoolbox.png" width="16" height="16" alt="My Data Toolbox" /> **My Data Toolbox** — Create realistic test datasets straight from your OAS definitions  
   → [Demo](https://my-data-toolbox.jeoste.com/) · [Repo](https://github.com/jeoste/my-data-toolbox)
 - 🧮 **Abacus** — Estimation charts to size Talend and Blueway data flow workloads  
   → [App](https://abacus.jeoste.com/) · [Repo](https://github.com/jeoste/abacus)
 - 📋 **Article Repository** — Custom web & desktop app to replace Excel for client article management, with Talend-ready export  
   → [Repo](https://github.com/jeoste/referentiel-articles)
-- 🩹 **Talend Patch Generator** — Next.js wizard (13 steps) to build production-ready Qlik Talend ESB Runtime patch packages for Linux  
+- <img src="assets/esb-patch.png" width="16" height="16" alt="Talend Patch Generator" /> **Talend Patch Generator** — Next.js wizard (13 steps) to build production-ready Qlik Talend ESB Runtime patch packages for Linux  
   Guided setup for installer path, patch ZIP, Karaf credentials (`tadmin` / `tesb` / `karaf`) and systemd service — generates a fused shell script (password rotation → patch apply → PID fix) with live preview and EN/FR UI, exported as `talend-patch-package.zip`  
   → [App](https://esb-patch.jeoste.com/) · [Repo](https://github.com/jeoste/talend-scripts)
 - 🔒 **Talend SSL Scripts** — Bash automation for renewing SSL/HTTPS certificates on the Talend Apache Karaf runtime  
@@ -53,29 +53,29 @@
 
 ### Cloud & DevOps
 
-- ☁️ **AWS Management** — Manage SQS queues and SNS topics from a unified interface  
+- <img src="assets/aws-management.png" width="16" height="16" alt="AWS Management" /> **AWS Management** — Manage SQS queues and SNS topics from a unified interface  
   → [Demo](https://aws-management.jeoste.com/) · [Repo](https://github.com/jeoste/aws-management)
 
 ### Web & Creative
 
-- 🤖 **NxtHire AI** — Automate resume screening, candidate emails and interview preparation with AI. Next generation of ATS & CRM  
+- <img src="assets/nexthire.png" width="16" height="16" alt="NxtHire AI" /> **NxtHire AI** — Automate resume screening, candidate emails and interview preparation with AI. Next generation of ATS & CRM  
   → [Site](https://www.nexthi.re/)
-- 📈 **Xpand** — Audience growth platform for X: track followers, schedule posts and measure engagement  
+- <img src="assets/xpand.png" width="16" height="16" alt="Xpand" /> **Xpand** — Audience growth platform for X: track followers, schedule posts and measure engagement  
   → [Site](https://www.xpand.to/)
-- 🐾 **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
+- <img src="assets/heybuddy.png" width="16" height="16" alt="HeyBuddy" /> **HeyBuddy** — A cute living companion on your Mac that reminds you to hydrate, stretch and take smart breaks  
   → [Site](https://heybuddy.space/)
-- ⚓️ **DevDocklane** — See every localhost port from the menu bar, and launch your own `pnpm`/`npm` servers in one click — 100% local  
+- <img src="assets/devdocklane.png" width="16" height="16" alt="DevDocklane" /> **DevDocklane** — See every localhost port from the menu bar, and launch your own `pnpm`/`npm` servers in one click — 100% local  
   → [Download](https://github.com/jeoste/devdocklane/releases) · [Repo](https://github.com/jeoste/devdocklane)
-- 🖐️ **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
+- <img src="assets/handometer.png" width="16" height="16" alt="Handometer" /> **Handometer** — A pedometer for your hands: track cursor distance in real centimeters, mouse speed, clicks and per-key counts — 100% local, from the menu bar  
   → [Site](https://handometer.jeoste.com/) · [Download](https://github.com/jeoste/handometer/releases) · [Repo](https://github.com/jeoste/handometer)
-- 🌐 **Personal Website** — Portfolio, blog and consulting  
+- <img src="assets/jeoste.png" width="16" height="16" alt="Personal Website" /> **Personal Website** — Portfolio, blog and consulting  
   → [Site](https://www.jeoste.com/)
 - 📖 **MkDocs Template** — Polished documentation template for consulting deliverables  
   → [Repo](https://github.com/jeoste/mkdocs-template)
 
 ### Tools & Side Projects
 
-- ✅ **CocheCoche** — Open-source task desk (dates, projects, agent ingest API) — each account has its own space  
+- <img src="assets/cochecoche.png" width="16" height="16" alt="CocheCoche" /> **CocheCoche** — Open-source task desk (dates, projects, agent ingest API) — each account has its own space  
   → [Site](https://cochecoche.jeoste.com/) · [Repo](https://github.com/jeoste/cochecoche)
 - <img src="assets/caza.png" width="16" height="16" alt="Caza" /> **Caza** — Prospecting CRM for Data-Major: companies to hunt, then contact — kanban, notes, agent ingest  
   → [Site](https://caza-two.vercel.app/) · [Repo](https://github.com/jeoste/caza)
